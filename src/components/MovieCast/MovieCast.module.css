@@ -1,0 +1,22 @@
+.cast {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+}
+
+.castItem {
+  width: calc(100% - 96) / 5;
+}
+
+.topic {
+  color: rgb(142, 235, 79);
+  max-width: 280px;
+}
+
+.dscr {
+  font-style: italic;
+  max-width: 280px;
+}
